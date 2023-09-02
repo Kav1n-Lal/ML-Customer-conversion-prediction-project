@@ -4,7 +4,7 @@
 ### Table containing all models used and its corresponding ROC-AUC and Accuracy Score
 
 |    Model                        |  Train(ROC-AUC)   |  Test(ROC-AUC)   |  Accuracy      |    Remarks          |
-|                                 |                   |                  |                |                     |
+| :------------------------------ |-------------------|------------------|----------------|--------------------:|
 | logistic_regression_smote       |         0.90      |        0.89      |      0.81      |                     |
 | logistic_regression_smoteenn    |         0.90      |        0.89      |      0.82      |                     |
 | logistic_regression_smotetomek  |         0.90      |        0.89      |      0.81      |                     |
